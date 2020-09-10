@@ -1,0 +1,24 @@
+textarea{
+    vertical-align: middle;
+}
+div#wrapper
+{
+    text-align:center;
+}
+div#wrapper1
+{
+    text-align:center;
+}
+.container 
+{
+	text-align: center;
+	display: block;
+}
+.container .text
+{
+	text-align: left;
+	display: inline-block;
+}
+h2{
+    margin-bottom: 0px;
+}
